@@ -5,7 +5,7 @@
 		"extension" : "ipf",
 		"releaseTag" : "2.0.0",
 		"fileVersion" : "v2.0.0",
-		"unicode" : "?",
+		"unicode" : "⚗",
 		"description" : "A few additions to BetterQuest to make it.. better",
 		"tags" : [
 			"ui",
