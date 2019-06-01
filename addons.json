@@ -1,0 +1,15 @@
+[
+	{
+		"name" : "Better Quest",
+		"file" : "betterquest",
+		"extension" : "ipf",
+		"releaseTag" : "2.0.0",
+		"fileVersion" : "v2.0.0",
+		"unicode" : "?",
+		"description" : "A few additions to BetterQuest to make it.. better",
+		"tags" : [
+			"ui",
+			"quest"
+		]
+	}
+]
