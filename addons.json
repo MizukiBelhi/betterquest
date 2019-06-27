@@ -3,10 +3,10 @@
 		"name" : "Better Quest",
 		"file" : "betterquest",
 		"extension" : "ipf",
-		"releaseTag" : "2.0.0",
-		"fileVersion" : "v2.0.0",
+		"releaseTag" : "2.0.1",
+		"fileVersion" : "v2.0.1",
 		"unicode" : "⚗",
-		"description" : "A few additions to BetterQuest to make it.. better",
+		"description" : "Because of updates to the QuestUI, this has been changed to only show the \"Uncheck All\" button.",
 		"tags" : [
 			"ui",
 			"quest"
