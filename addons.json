@@ -6,7 +6,7 @@
 		"releaseTag" : "2.0.1",
 		"fileVersion" : "v2.0.1",
 		"unicode" : "⚗",
-		"description" : "Because of updates to the QuestUI, this has been changed to only show the \"Uncheck All\" button.",
+		"description" : "Because of updates to the QuestUI, this has been changed to only show the 'Uncheck All' button.",
 		"tags" : [
 			"ui",
 			"quest"
